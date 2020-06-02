@@ -1,5 +1,8 @@
 # CorderoMenaExamenF
 Examen Interciclo
+Estructura del proyecto.
+![eclipse-workspace - CorderoMenaKevinEXAMENF_src_ec_edu_ups_entidades_Tcredito java - Eclipse IDE 6_2_2020 2_05_33 PM](https://user-images.githubusercontent.com/46872883/83559492-496e1b80-a4da-11ea-828a-5468a5f87cac.png)
+
 Pantallaso de La estructura de la BD.
 
 ![MySQL Workbench 6_2_2020 12_56_37 PM](https://user-images.githubusercontent.com/46872883/83553271-964cf480-a4d0-11ea-8292-20d0fe9f6a5d.png)
