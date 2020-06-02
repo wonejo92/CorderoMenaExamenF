@@ -3,6 +3,9 @@
 	<persistence-unit name="CorderoMenaKevinEXAMENF">
 	
 	<provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+	<class>ec.edu.ups.entidades.Pedido</class>
+	<class>ec.edu.ups.entidades.Comidas</class>
+	<class>ec.edu.ups.entidades.Tcredito</class>
 	
 		<properties>
 			<property name="eclipselink.ddl-generation" value="create-tables" />			
