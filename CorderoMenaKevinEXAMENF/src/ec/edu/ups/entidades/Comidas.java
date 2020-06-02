@@ -88,8 +88,4 @@ public class Comidas implements Serializable {
 		return "Comidas [codigo=" + codigo + ", nombre=" + nombre + ", precioU=" + precioU + ", numeroP=" + numeroP
 				+ "]";
 	}
-	
-
-
-   
 }
